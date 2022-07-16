@@ -9956,3 +9956,13 @@ h6,
   padding: 0;
   list-style-type: none;
 }
+/*admin page style*/
+.navbar-left ul li a.nav-item {
+  font-size: 14px !important;
+}
+.navbar-left a {
+  font-size: 10px;
+}
+.navbar-left ul li {
+  list-style-type: none;
+}
