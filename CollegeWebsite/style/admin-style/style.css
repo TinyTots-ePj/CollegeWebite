@@ -1,0 +1,27 @@
+.body{
+    position: relative;
+}
+.left ul li:hover{
+    background-color: #ff6600;
+    transition: ease-in-out 0.3s;
+    border-radius: 8.5px;
+}
+.left ul li{
+    margin-bottom: 0.4em;
+}
+.left{
+    height: 700px;
+    /*position: sticky;*/
+    /*top: 0px;*/
+}
+.head{
+    padding-left: 20%;
+    position: absolute;
+}
+.logo{
+    color: white;
+    margin-left: 0.4em;
+    margin-top: 0.2em;
+    font-weight: bold;
+    font-size: 35px !important;
+}
